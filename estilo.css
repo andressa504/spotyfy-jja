@@ -1,0 +1,16 @@
+body{
+    background-color: white;
+}
+.principal{
+    display: flex;
+}
+.secundario{
+    display: flex;
+}
+li{
+    list-style: none;
+}
+div{
+    border: red solid 2px;
+}
+
